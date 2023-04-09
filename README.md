@@ -9,6 +9,7 @@ This repository contains implementations of the `minifyLua` and `unminifyLua` fu
 - Java
 
 Each language has its own subdirectory containing the source code for the functions.
+
 To test it out visit https://oniongithub.github.io/onion-minify-site/
 
 ## minifyLua
