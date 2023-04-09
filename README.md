@@ -1,6 +1,14 @@
-# Lua Code Minifier and Unminifier
+# Supported Languages
 
-This repository contains functions for minifying and unminifying Lua code.
+This repository contains implementations of the `minifyLua` and `unminifyLua` functions in the following languages:
+
+- Lua
+- JavaScript
+- Rust
+- C++
+- Java
+
+Each language has its own subdirectory containing the source code for the functions.
 
 ## minifyLua
 
