@@ -45,8 +45,11 @@ let minifiedCode = `local x=1 local y=2 local z=x+y`
 
 let formattedCode = unminifyLua(minifiedCode)
 console.log(formattedCode)
+```
+
 This will output the following formatted code:
 
+```javascript
 local x = 1 
 local y = 2 
 local z = x + y
