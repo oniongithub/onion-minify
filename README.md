@@ -24,7 +24,7 @@ This will output the following minified code:
 local x=1 local y=2 local z=x+y
 ```
 
-##unminifyLua
+## unminifyLua
 
 The `unminifyLua` function takes a string containing minified Lua code as an argument and returns a more readable version of the code. The function adds line breaks and spaces to the code to make it easier to read.
 
